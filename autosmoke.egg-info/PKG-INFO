@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: autosmoke
+Version: 0.0.0
+Summary: Test automation
+Home-page: https://github.com/dongik/autosmoke
+Author: Dongik Lee
+Author-email: dongik2.lee@gmail.com
+License: MIT
+Description: ## Hello Nice to meet you 
+        ### this is test package for autosmoke
+        
+Platform: UNKNOWN
